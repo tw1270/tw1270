@@ -10,7 +10,7 @@ ABOUT ME
 - ⚙️  Data Cleaning, Data Visualization, Data Analysis, Machine Modeling, NLP, Neural Network, Computer Vision
 - 💻 Pandas, NumPy, SciPy, Seaborn, Matplotlib, Tensorflow, Keras, OpenCV, Scikit-learn, Beautiful Soup, StatsModel
 
-📝 Recent Projects <br/>
+### 📝 Recent Projects <br/>
 
 <a href="https://github.com/tw1270/Drowsiness-Detection" target="_blank">Drowsiness-Detection Using Neural Network</a>
 - Obtained eye image data set from three sources (Kaggle, Nanjing University, and University of Massachusetts)
@@ -37,9 +37,14 @@ ABOUT ME
 - Evaluated a number of models using linear regression and LASSO or Ridge regularization
 - Developed a model that was able to predict housing prices with an R^2 score of .93
 
+🤝🏻  Connect with Me
 
-
-
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/tenzin-wangdu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://tenzinwangdu1997.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+<a href="mailto:tw1270@ymail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
 <!---
 tw1270/tw1270 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
