@@ -1,11 +1,11 @@
-ABOUT ME
+### ABOUT ME
 - 👋 Hi, I’m Tenzin Wangdu
 - 👀 I’m interested in Data Science/Analyst
 - 🌱 I’m currently learning AWS
 - ❤️ My favorite language is Python
 - 💞️ I’m always looking to collaborate with data scientist from any field 
 
-🛠  Tech Stack
+### 🛠  Tech Stack
 - 👾 Python, SQL, Excel, Tableau, Github, AWS
 - ⚙️  Data Cleaning, Data Visualization, Data Analysis, Machine Modeling, NLP, Neural Network, Computer Vision
 - 💻 Pandas, NumPy, SciPy, Seaborn, Matplotlib, Tensorflow, Keras, OpenCV, Scikit-learn, Beautiful Soup, StatsModel
@@ -37,7 +37,7 @@ ABOUT ME
 - Evaluated a number of models using linear regression and LASSO or Ridge regularization
 - Developed a model that was able to predict housing prices with an R^2 score of .93
 
-🤝🏻  Connect with Me
+### 🤝🏻  Connect with Me
 
 <p align="center">
 <br>
