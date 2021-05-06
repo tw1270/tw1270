@@ -1,3 +1,4 @@
+ABOUT ME
 - 👋 Hi, I’m Tenzin Wangdu
 - 👀 I’m interested in Data Science/Analyst
 - 🌱 I’m currently learning AWS
