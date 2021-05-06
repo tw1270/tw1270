@@ -5,8 +5,19 @@
 - 💞️ I’m always looking to collaborate with data scientist from any field 
 
 🛠  Tech Stack
-- 👾  https://camo.githubusercontent.com/27250b9f428b32314f8610e1a996939cc116da5f8c4d8a2f8ed37104275085b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465 POSTGRESQL MSExcel
-- ⚙️   Git GitHub Jupter 
+- 👾 Python, SQL, Excel, Tableau, Github, AWS
+- ⚙️  Data Cleaning, Data Visualization, Data Analysis, Machine Modeling, NLP, Neural Network, Computer Vision
+- 💻 Pandas, NumPy, SciPy, Seaborn, Matplotlib, Tensorflow, Keras, OpenCV, Scikit-learn, Beautiful Soup, StatsModel
+
+📝 Recent Projects
+<a href="https://github.com/tw1270/Drowsiness-Detection" target="_blank">Drowsiness-Detection</a>
+- Obtained eye image data set from three sources (Kaggle, Nanjing University, and University of Massachusetts)
+- Implemented OpenCv to detect eyes and evaluate neural network model using CNN to predict if the eye is closed or not
+- Built a program that accesses the user’s webcam to detect if the user is drowsy and achieve a 98.13% accuracy using CNN
+
+
+
+
 <!---
 tw1270/tw1270 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
