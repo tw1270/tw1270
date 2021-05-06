@@ -9,7 +9,7 @@
 - ⚙️  Data Cleaning, Data Visualization, Data Analysis, Machine Modeling, NLP, Neural Network, Computer Vision
 - 💻 Pandas, NumPy, SciPy, Seaborn, Matplotlib, Tensorflow, Keras, OpenCV, Scikit-learn, Beautiful Soup, StatsModel
 
-📝 Recent Projects
+📝 Recent Projects <br/>
 <a href="https://github.com/tw1270/Drowsiness-Detection" target="_blank">Drowsiness-Detection</a>
 - Obtained eye image data set from three sources (Kaggle, Nanjing University, and University of Massachusetts)
 - Implemented OpenCv to detect eyes and evaluate neural network model using CNN to predict if the eye is closed or not
